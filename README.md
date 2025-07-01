@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Cha Chu Jun
 
-<!--
-**junxnor/junxnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor of Computer Science (Hons) in Artificial Intelligence**  
+📍 Asia Pacific University (APU) | KL - Kuala Lumpur  
+📅 November 2024 – 2026  
+📊 Current CGPA: 3.56
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️💻 Skills & Tools
+
+- **Programming:** C++, Python, Java, PHP, R, Dart
+- **Frameworks/Tools:** Blazor, Laravel, JavaFX, Flutter, Firebase, OpenCV, LabView, TensorFlow
+- **Languages:** English, Mandarin, Malay
+- **Other:** GitHub, MySQL, phpMyAdmin, Cisco Packet Tracer, Microsoft Office
+
+---
